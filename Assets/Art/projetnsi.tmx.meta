@@ -1,0 +1,57 @@
+fileFormatVersion: 2
+guid: 8b562c5f23f2c8648a0741fe07bca199
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors:
+  - Errors detected in tileset 'Terrain.tsx'. Check the tileset inspector for more
+    details. Your map may be broken until these are fixed.
+  - Errors detected in tileset 'dc48brq-fc0cf7ca-b46c-49ed-b656-80537494209d.tsx'.
+    Check the tileset inspector for more details. Your map may be broken until these
+    are fixed.
+  - Could not find tile 125. Make sure the tilesets were successfully imported.
+  - Could not find tile 98. Make sure the tilesets were successfully imported.
+  - Could not find tile 305. Make sure the tilesets were successfully imported.
+  - Could not find tile 1032. Make sure the tilesets were successfully imported.
+  - Could not find tile 1028. Make sure the tilesets were successfully imported.
+  - Could not find tile 1029. Make sure the tilesets were successfully imported.
+  - Could not find tile 1033. Make sure the tilesets were successfully imported.
+  - Could not find tile 1037. Make sure the tilesets were successfully imported.
+  - Could not find tile 101. Make sure the tilesets were successfully imported.
+  - Could not find tile 1038. Make sure the tilesets were successfully imported.
+  - Could not find tile 1026. Make sure the tilesets were successfully imported.
+  - Could not find tile 1027. Make sure the tilesets were successfully imported.
+  - Could not find tile 442. Make sure the tilesets were successfully imported.
+  - Could not find tile 835. Make sure the tilesets were successfully imported.
+  - Could not find tile 175. Make sure the tilesets were successfully imported.
+  - Could not find tile 104. Make sure the tilesets were successfully imported.
+  - Could not find tile 494. Make sure the tilesets were successfully imported.
+  - Could not find tile 1031. Make sure the tilesets were successfully imported.
+  - Could not find tile 1036. Make sure the tilesets were successfully imported.
+  - Could not find tile 1034. Make sure the tilesets were successfully imported.
+  - Could not find tile 1039. Make sure the tilesets were successfully imported.
+  - Could not find tile 110. Make sure the tilesets were successfully imported.
+  - Could not find tile 485. Make sure the tilesets were successfully imported.
+  - Could not find tile 517. Make sure the tilesets were successfully imported.
+  - Could not find tile 647. Make sure the tilesets were successfully imported.
+  - Could not find tile 679. Make sure the tilesets were successfully imported.
+  - Could not find tile 711. Make sure the tilesets were successfully imported.
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 24
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []
